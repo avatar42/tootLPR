@@ -21,7 +21,7 @@ pip install toot
 
 toot login --instance [host name]
 
-** Note be sure to login as the user that will be running the script. In the case of Blue Iris this is generally the Administrator account. **
+**Note be sure to login as the user that will be running the script. In the case of Blue Iris this is generally the Administrator account.**
 
 ## Configure
 Edit the paths in toolLPR.sh and tootLPRtest.bat
