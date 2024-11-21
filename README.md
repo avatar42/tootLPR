@@ -17,7 +17,7 @@ pip install datetime
 
 pip install requests
 
-pip install toot
+pip install toot==0.36.0
 
 toot login --instance [host name]
 
